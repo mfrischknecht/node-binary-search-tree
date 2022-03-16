@@ -20,8 +20,8 @@
   "dependencies": {},
   "devDependencies": {
     "chai": "1.0.x",
-    "mocha": "1.4.x",
-    "underscore": "~1.4.4"
+    "mocha": "9.2.2",
+    "underscore": "~1.13.2"
   },
   "scripts": {
     "test": "make test"
